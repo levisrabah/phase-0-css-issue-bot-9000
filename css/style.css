@@ -1,16 +1,16 @@
 body {
-  background pink;
+  background: pink ;
 }
 
 h1 {
   color: blue;
-  fontsize: 3em; 
+  font-size: 3em; 
 }
 
 h2 {
   color: green;
   font-weight: normal
-  font-style: italic;
+  normal font-style
 }
 
 .completed {
@@ -19,5 +19,4 @@ h2 {
 
 #tasks .completed {
   backgound: #ccc;
-  text-decoration: underline;
 }
